@@ -25,11 +25,11 @@
 class Config(object):
 
     # get a token from @BotFather
-    BOT_TOKEN = ""
+    BOT_TOKEN = "5545555045:AAF-IpF8rcEhdd3TSyVYT-Z4o7cj29inn4w"
 
     # Get these values from my.telegram.org
-    API_ID = 1234567
-    API_HASH = ""
+    API_ID = 9028013
+    API_HASH = "cc894fc40424f9c8bbcf06b7355bd69d"
 
     # No need to change
     DOWNLOAD_LOCATION = "./DOWNLOADS"
@@ -40,8 +40,9 @@ class Config(object):
     PROCESS_MAX_TIMEOUT = 3700
 
     # TG Ids
-    LOG_CHANNEL = -1007119867241
-    OWNER_ID = 1288398723
+    LOG_CHANNEL = -1001553259020
+    OWNER_ID = 5541009328
+    
 
     # bot username without @
     BOT_USERNAME = "AdvanceUrlUploaderBot"
