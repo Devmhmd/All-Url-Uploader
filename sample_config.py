@@ -45,7 +45,7 @@ class Config(object):
     
 
     # bot username without @
-    BOT_USERNAME = "AdvanceUrlUploaderBot"
+    BOT_USERNAME = "Q8_obot"
 
     # auth users
     AUTH_USERS = [OWNER_ID]
